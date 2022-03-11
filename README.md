@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdolahkh
 - 👀 I’m interested in ML, Data science and IoT systems.
 - 🌱 I’m currently learning Python programming and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a AI juneral.
 - 📫 How to reach me ...
 
 <!---
