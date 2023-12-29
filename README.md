@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python programming and Machine Learning.
 - 💞️ I’m looking to collaborate on a AI juneral.
 - 📫 How to reach me ...
-- Twitter: https://twitter.com/abdolahkh
+- X: https://twitter.com/abdolahkh
 - Linkedin: https://www.linkedin.com/in/abdolah-khoshkalam/
 
 <!---
