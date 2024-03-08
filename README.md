@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - X: https://twitter.com/abdolahkh
 - Linkedin: https://www.linkedin.com/in/abdolah-khoshkalam/
+- Telegram: https://t.me/elmedade
 
 <!---
 abdolahkh/abdolahkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
